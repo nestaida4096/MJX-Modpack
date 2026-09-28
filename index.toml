@@ -140,6 +140,11 @@ hash = "85400ae137eed5cafe1f77d5773a708b4b6f4a3313a8f083a0c2920c8d984d6d"
 metafile = true
 
 [[files]]
+file = "mods/lightmans-currency.pw.toml"
+hash = "b866dfa492c2f8a94e6864196720e1af291770b8b7600516dc4887de39336a31"
+metafile = true
+
+[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "ee95dd38d28436092e838872b5b2f19da391dafa8c0ca0948f50849536d9dc7a"
 metafile = true
