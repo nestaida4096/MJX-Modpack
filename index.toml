@@ -299,8 +299,9 @@ hash = "5d8b9ff36213e2dc0b0b4c9a6deeee9d11305e90d604d4af128989580f3e84ca"
 metafile = true
 
 [[files]]
-file = "mods/super_resolution-forge-1.20.1-0.9.1-alpha.1+opengl.jar"
-hash = "74b6c55ef0f58f36be19ca0e4e4feefdbd955ef91e18f6672f004fe709f16db4"
+file = "mods/superresolution.pw.toml"
+hash = "dc722fbf4f8426d14a6664de1c38eb8e1047c6a285b3706da096d89733307888"
+metafile = true
 
 [[files]]
 file = "mods/the-tube.pw.toml"
