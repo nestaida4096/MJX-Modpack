@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "5f4875bf3cd5889812aadf5d4fb1583a896b10bedf03d704392605d56a271bd6"
+hash = "03783bea6895d8acf198ac7d8bce4f91746659d0954f7367d0029b11963edee0"
 metafile = true
 
 [[files]]
@@ -120,8 +120,8 @@ hash = "960cd8053cb397535599d7aca1f07cba3e6d05f71bfaebc5eee4e069340e83ff"
 metafile = true
 
 [[files]]
-file = "mods/japanituremod.pw.toml"
-hash = "2e40ce7a26a9d63fb1d32f1130bc7ce28af345b81ad1de0347131be195623d81"
+file = "mods/japaniture.pw.toml"
+hash = "47208f3c09e9c82e46608595eb4e55d7ffa7a430ca8701f0ce7621ba061b4c36"
 metafile = true
 
 [[files]]
