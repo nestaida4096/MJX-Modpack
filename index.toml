@@ -106,11 +106,6 @@ hash = "db495b3ac268709a2ba673bfe220b10257fb7dae549f94bfbd539617d571f131"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
-metafile = true
-
-[[files]]
 file = "mods/japaniture.pw.toml"
 hash = "47208f3c09e9c82e46608595eb4e55d7ffa7a430ca8701f0ce7621ba061b4c36"
 metafile = true
@@ -302,11 +297,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
-metafile = true
-
-[[files]]
-file = "mods/superresolution.pw.toml"
-hash = "dc722fbf4f8426d14a6664de1c38eb8e1047c6a285b3706da096d89733307888"
 metafile = true
 
 [[files]]
