@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/superresolution.pw.toml"
-hash = "143d8e2c4b566b13748daa90b13ae252f6c2a6b5c18ba0d20bbdb950bbfc1154"
+hash = "dc722fbf4f8426d14a6664de1c38eb8e1047c6a285b3706da096d89733307888"
 metafile = true
 
 [[files]]
