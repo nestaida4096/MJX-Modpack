@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/japanituremod-forge-4.0.0.jar"
-hash = "79712bac98c5783e73aecfb08111501b9273db703f8298fa2c0250481ca7c8d0"
+hash = "c08d663d87aa9341058935a6bc02d87f16b49da40898c842e31a1e0f346d47c3"
 
 [[files]]
 file = "mods/japansuburbia.pw.toml"
