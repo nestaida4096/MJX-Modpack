@@ -298,6 +298,11 @@ hash = "2edb8d2462dfc441aa635b9efa2de30c2c70b7233f3354d71ff406129b7176a2"
 metafile = true
 
 [[files]]
+file = "mods/slide-show-pro.pw.toml"
+hash = "3a4c24b593315c81f14e5572e055fd61d1cd10ae97d0c273303b5aadb9ca4c9d"
+metafile = true
+
+[[files]]
 file = "mods/smooth-boot-reloaded.pw.toml"
 hash = "daf32b14b2274f7aae1cfc76dabd879a4a7f249fa41d039afab48d1d038d6aed"
 metafile = true
