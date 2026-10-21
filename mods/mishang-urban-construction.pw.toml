@@ -1,0 +1,12 @@
+name = "mishang-urban-construction"
+filename = "mishanguc-1.6.5+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rItLmRo4/versions/O2gqVaaH/mishanguc-1.6.5%2Bmc1.20.1.jar"
+hash-format = "sha1"
+hash = "a09f4e522fe7ca9d3d6266f9af92fd43f5af3b37"
+
+[update.modrinth]
+mod-id = "rItLmRo4"
+version = "O2gqVaaH"
