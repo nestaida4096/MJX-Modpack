@@ -361,3 +361,9 @@ metafile = true
 file = "mods/yuushya-townscape.pw.toml"
 hash = "97ea274ebe99be93e0cf572310c54d35c50c3da607443e2ddd45f9d3038805b9"
 metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash-format = "sha256"
+hash = "b3fef710b258773c51fc4e62ba83da81f8745e9a656b6fc0bcaa7a06f220adf7"
+metafile = true
