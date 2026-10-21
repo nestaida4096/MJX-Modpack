@@ -361,9 +361,3 @@ metafile = true
 file = "mods/yuushya-townscape.pw.toml"
 hash = "97ea274ebe99be93e0cf572310c54d35c50c3da607443e2ddd45f9d3038805b9"
 metafile = true
-
-[[files]]
-file = "mods/mishang-urban-construction.pw.toml"
-hash-format = "sha256"
-hash = "446da60e0d04da1500e2f74a1eaa56adfbb8fa8f815075265bbf567f4047d388"
-metafile = true
