@@ -13,4 +13,7 @@ version = "HWDC99DO"
 
 [option]
 optional = true
-default = true
+default = false
+description = """
+地図・ウェイポイントmod。
+Map and waypoint mod."""
